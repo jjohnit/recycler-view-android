@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project_2</string>
+    <string name="sample_text">Sample text</string>
+    <string name="animal_image">Animal image</string>
+    <string name="menu_web">View in browser</string>
+    <string name="menu_large_img">View image</string>
+</resources>

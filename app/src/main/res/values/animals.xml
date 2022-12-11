@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animal_names">
+        <item>Elephant</item>
+        <item>Bear</item>
+        <item>Yak</item>
+        <item>Tiger</item>
+        <item>Giraffe</item>
+        <item>leopard</item>
+        <item>Zebra</item>
+        <item>Lion</item>
+    </string-array>
+    <string-array name="animal_web">
+        <item>https://en.wikipedia.org/wiki/Elephant</item>
+        <item>https://en.wikipedia.org/wiki/Bear</item>
+        <item>https://en.wikipedia.org/wiki/Yak</item>
+        <item>https://en.wikipedia.org/wiki/Tiger</item>
+        <item>https://en.wikipedia.org/wiki/Giraffe</item>
+        <item>https://en.wikipedia.org/wiki/Leopard</item>
+        <item>https://en.wikipedia.org/wiki/Zebra</item>
+        <item>https://en.wikipedia.org/wiki/Lion</item>
+    </string-array>
+</resources>
